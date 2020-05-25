@@ -2,12 +2,12 @@ import React from 'react';
 import Navbar from 'react-bootstrap/Navbar';
 import Nav from 'react-bootstrap/Nav';
 import Button from 'react-bootstrap/Button'
-import logo from "./logo.svg";
+import logo from "../logo.svg";
 
 export default function NavBar () {
     return(
-        <Navbar bg="light" expand="lg">
-            <Navbar.Brand href="#home">
+        <Navbar bg="light" expand="lg" fixed="top">
+            <Navbar.Brand href="/">
             <img
                 src={logo}
                 width="30"
@@ -16,6 +16,7 @@ export default function NavBar () {
                 alt="ume logo"
             />
             </Navbar.Brand>
+            <Nav.Link href="https://www.ume.solutions/">Link to old site</Nav.Link>
             <Navbar.Toggle aria-controls="basic-navbar-nav" />
             <Navbar.Collapse id="basic-navbar-nav">
                 <Nav className="mr-auto ml-auto">
@@ -25,7 +26,7 @@ export default function NavBar () {
                     <Nav.Link href="#recognition">Recognition</Nav.Link>
                     <Nav.Link href="#contact">Contact</Nav.Link>
                 </Nav>
-                <Button variant="outline-primary">Log in</Button>
+                <Button variant="outline-primary" href="https://app.ume.solutions/auth">Log in</Button>
             </Navbar.Collapse>
         </Navbar>
     );
