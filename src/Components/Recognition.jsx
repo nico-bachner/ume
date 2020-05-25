@@ -8,22 +8,28 @@ import InFinance_2017 from "../InFinance_2017.png";
 import InFinance_2018 from "../InFinance_2018.png";
 import RegTech100 from "../RegTech100.png";
 
+const RegTech100Style = {
+    backgroundColor: "#90B0D0"
+};
+
 export default function Recognition () {
     return(
         <Container>
             <Card>
                 <Card.Header>Our Awards</Card.Header>
-                <Row>
-                    <Col xs={6} md={4}>
-                        <Image src={InFinance_2017} fluid />
-                    </Col>
-                    <Col xs={6} md={4}>
-                        <Image src={InFinance_2018} fluid />
-                    </Col>
-                    <Col xs={6} md={4}>
-                        <Image src={RegTech100} fluid />
-                    </Col>
-                </Row>
+                <Card.Body style={RegTech100Style}>
+                    <Row>
+                        <Col xs={6} md={4}>
+                            <Image src={InFinance_2017} fluid />
+                        </Col>
+                        <Col xs={6} md={4}>
+                            <Image src={InFinance_2018} fluid />
+                        </Col>
+                        <Col xs={6} md={4}>
+                            <Image src={RegTech100} fluid />
+                        </Col>
+                    </Row>
+                </Card.Body>
             </Card>
         </Container>
     );

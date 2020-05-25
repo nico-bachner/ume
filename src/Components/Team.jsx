@@ -21,17 +21,15 @@ export default function Team () {
                             <Card.Body>
                                 <Card.Title>Laurent Denayer</Card.Title>
                                 <Card.Text>
-                                    Test text
+                                    Laurent left EY in 2017 to found ume. <br /> He was the EY Global Fund Distribution Leader and lead the partner, risk and and regulatory advisory services.
                                 </Card.Text>
                             </Card.Body>
                             <ListGroup className="list-group-flush">
-                                <ListGroupItem>Cras justo odio</ListGroupItem>
-                                <ListGroupItem>Dapibus ac facilisis in</ListGroupItem>
-                                <ListGroupItem>Vestibulum at eros</ListGroupItem>
+                                <ListGroupItem>Founded ume in 2017</ListGroupItem>
                             </ListGroup>
                             <Card.Body>
-                                <Card.Link href="#">Card Link</Card.Link>
-                                <Card.Link href="#">Another Link</Card.Link>
+                                <Card.Link href="https://www.linkedin.com/in/larent-denayer">LinkedIn</Card.Link>
+                                <Card.Link href="#">Twitter</Card.Link>
                             </Card.Body>
                             <Card.Footer>
                                 <small className="text-muted">Last updated 20 mins ago</small>
@@ -43,17 +41,15 @@ export default function Team () {
                             <Card.Body>
                                 <Card.Title>Rolf Bachner</Card.Title>
                                 <Card.Text>
-                                    Test text
+                                    Rolf joined from BNY Mellon where he was global head of digital product management for the bank’s asset servicing division.
                                 </Card.Text>
                             </Card.Body>
                             <ListGroup className="list-group-flush">
-                                <ListGroupItem>Cras justo odio</ListGroupItem>
-                                <ListGroupItem>Dapibus ac facilisis in</ListGroupItem>
-                                <ListGroupItem>Vestibulum at eros</ListGroupItem>
+                                <ListGroupItem>Joined ume in 2019</ListGroupItem>
                             </ListGroup>
                             <Card.Body>
-                                <Card.Link href="#">Card Link</Card.Link>
-                                <Card.Link href="#">Another Link</Card.Link>
+                                <Card.Link href="https://www.linkedin.com/in/rolf-bachner">LinkedIn</Card.Link>
+                                <Card.Link href="#">Twitter</Card.Link>
                             </Card.Body>
                             <Card.Footer>
                             <small className="text-muted">Last updated 3 days ago</small>
@@ -65,17 +61,15 @@ export default function Team () {
                             <Card.Body>
                                 <Card.Title>Oleksiy Shostak</Card.Title>
                                 <Card.Text>
-                                    Test text
+                                    Oleksiy is an experienced software developer and architect with more than 20 years of experience in wide range of technologies and industries.​
                                 </Card.Text>
                             </Card.Body>
                             <ListGroup className="list-group-flush">
-                                <ListGroupItem>Cras justo odio</ListGroupItem>
-                                <ListGroupItem>Dapibus ac facilisis in</ListGroupItem>
-                                <ListGroupItem>Vestibulum at eros</ListGroupItem>
+                                <ListGroupItem>With ume since 2017</ListGroupItem>
                             </ListGroup>
                             <Card.Body>
-                                <Card.Link href="#">Card Link</Card.Link>
-                                <Card.Link href="#">Another Link</Card.Link>
+                                <Card.Link href="https://www.linkedin.com/in/oleksiy-shostak">LinkedIn</Card.Link>
+                                <Card.Link href="#">Twitter</Card.Link>
                             </Card.Body>
                             <Card.Footer>
                             <small className="text-muted">Last updated 1 year ago</small>

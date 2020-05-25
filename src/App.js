@@ -1,7 +1,7 @@
 import React from 'react';
 import NavBar from './Components/NavBar';
 import Contact from './Components/Contact';
-import Product from './Components/Product';
+import Home from './Components/Home';
 import About from './Components/About';
 import Team from './Components/Team';
 import Recognition from './Components/Recognition';
@@ -15,12 +15,12 @@ export default function App() {
                 <NavBar />
             </nav>
 
-            <header id="about" >
-                <About />
+            <header id="home" >
+                <Home />
             </header>
 
-            <section id="product" >
-                <Product />
+            <section id="about" >
+                <About />
             </section>
 
             <section id="team" >

@@ -7,7 +7,7 @@ import logo from "../logo.svg";
 export default function NavBar () {
     return(
         <Navbar bg="light" expand="lg" fixed="top">
-            <Navbar.Brand href="/">
+            <Navbar.Brand href="#">
             <img
                 src={logo}
                 width="30"
@@ -21,7 +21,6 @@ export default function NavBar () {
             <Navbar.Collapse id="basic-navbar-nav">
                 <Nav className="mr-auto ml-auto">
                     <Nav.Link href="#about">About</Nav.Link>
-                    <Nav.Link href="#product">Product</Nav.Link>
                     <Nav.Link href="#team">Team</Nav.Link>
                     <Nav.Link href="#recognition">Recognition</Nav.Link>
                     <Nav.Link href="#contact">Contact</Nav.Link>
