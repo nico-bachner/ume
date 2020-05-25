@@ -1,13 +1,17 @@
 import React from 'react';
-import Container from 'react-bootstrap/Container'
-import Card from 'react-bootstrap/Card'
+import Jumbotron from 'react-bootstrap/Jumbotron'
+import Button from 'react-bootstrap/Button'
 
-export default function Product () {
+export default function About () {
     return(
-        <Container>
-            <Card body>
-                Use the ume platform to automate the collection and evaluation of fund distributor due diligence information.
-            </Card>
-        </Container>
+        <Jumbotron fluid="true" className="text-center">
+            <h1>ume</h1>
+            <h5>
+                Use the ume platform to automate the collection and evaluation of <br /> fund distributor due diligence information.
+            </h5>
+            <p style={{margin: "5vh 0 0"}}>
+                <Button variant="primary">Go to ume platform</Button>
+            </p>
+        </Jumbotron>
     );
 }
