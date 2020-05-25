@@ -1,31 +1,32 @@
 {
   "files": {
-    "main.css": "/ume/static/css/main.c09db916.chunk.css",
-    "main.js": "/ume/static/js/main.c54e078c.chunk.js",
-    "main.js.map": "/ume/static/js/main.c54e078c.chunk.js.map",
+    "main.css": "/ume/static/css/main.516c3ed3.chunk.css",
+    "main.js": "/ume/static/js/main.e6dd8ea2.chunk.js",
+    "main.js.map": "/ume/static/js/main.e6dd8ea2.chunk.js.map",
     "runtime-main.js": "/ume/static/js/runtime-main.aafb589b.js",
     "runtime-main.js.map": "/ume/static/js/runtime-main.aafb589b.js.map",
     "static/css/2.af3c1da9.chunk.css": "/ume/static/css/2.af3c1da9.chunk.css",
-    "static/js/2.dfdc022d.chunk.js": "/ume/static/js/2.dfdc022d.chunk.js",
-    "static/js/2.dfdc022d.chunk.js.map": "/ume/static/js/2.dfdc022d.chunk.js.map",
+    "static/js/2.c54c582d.chunk.js": "/ume/static/js/2.c54c582d.chunk.js",
+    "static/js/2.c54c582d.chunk.js.map": "/ume/static/js/2.c54c582d.chunk.js.map",
     "index.html": "/ume/index.html",
-    "precache-manifest.d1764e2a4052c71a32a204978cebdb90.js": "/ume/precache-manifest.d1764e2a4052c71a32a204978cebdb90.js",
+    "precache-manifest.4a49ea201e39534c9b197c6d23c6348b.js": "/ume/precache-manifest.4a49ea201e39534c9b197c6d23c6348b.js",
     "service-worker.js": "/ume/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/ume/static/css/2.af3c1da9.chunk.css.map",
-    "static/css/main.c09db916.chunk.css.map": "/ume/static/css/main.c09db916.chunk.css.map",
-    "static/js/2.dfdc022d.chunk.js.LICENSE.txt": "/ume/static/js/2.dfdc022d.chunk.js.LICENSE.txt",
+    "static/css/main.516c3ed3.chunk.css.map": "/ume/static/css/main.516c3ed3.chunk.css.map",
+    "static/js/2.c54c582d.chunk.js.LICENSE.txt": "/ume/static/js/2.c54c582d.chunk.js.LICENSE.txt",
     "static/media/InFinance_2017.png": "/ume/static/media/InFinance_2017.511a0372.png",
     "static/media/InFinance_2018.png": "/ume/static/media/InFinance_2018.9f1343ba.png",
     "static/media/Laurent.jpg": "/ume/static/media/Laurent.c3b1e75d.jpg",
     "static/media/Oleksiy.jpg": "/ume/static/media/Oleksiy.3480ab5a.jpg",
+    "static/media/RegTech100.png": "/ume/static/media/RegTech100.846caf74.png",
     "static/media/Rolf.jpg": "/ume/static/media/Rolf.706e0b87.jpg",
     "static/media/logo.svg": "/ume/static/media/logo.427d05ae.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.aafb589b.js",
     "static/css/2.af3c1da9.chunk.css",
-    "static/js/2.dfdc022d.chunk.js",
-    "static/css/main.c09db916.chunk.css",
-    "static/js/main.c54e078c.chunk.js"
+    "static/js/2.c54c582d.chunk.js",
+    "static/css/main.516c3ed3.chunk.css",
+    "static/js/main.e6dd8ea2.chunk.js"
   ]
 }
