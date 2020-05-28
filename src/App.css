@@ -1,7 +1,13 @@
 header {
-    margin: 56px 0 5vh;
+    padding: 0;
 }
 
 section {
-    margin: 20vh 0;
+    padding: 10vh 0;
+}
+
+h1, h2 {
+    text-align: center;
+    margin: 0;
+    padding: 0 0 5vh;
 }

@@ -9,8 +9,8 @@ import Card from 'react-bootstrap/Card'
 export default function Contact () {
     return(
         <Container>
+            <h1>Contact us</h1>
             <Card>
-                <Card.Header>Contact us</Card.Header>
                 <Card.Body>
                     <Form>
                         <Form.Group>

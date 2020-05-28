@@ -5,7 +5,7 @@ import Home from './Components/Home';
 import About from './Components/About';
 import Team from './Components/Team';
 import Recognition from './Components/Recognition';
-import Breadcrumb from 'react-bootstrap/Breadcrumb'
+import Footer from './Components/Footer';
 import "./App.css";
 
 export default function App() {
@@ -36,12 +36,7 @@ export default function App() {
             </section>
             
             <footer>
-                <Breadcrumb>
-                    <Breadcrumb.Item href="#">Home</Breadcrumb.Item>
-                    <Breadcrumb.Item href="https://getbootstrap.com/docs/4.0/components/breadcrumb/">Library</Breadcrumb.Item>
-                    <Breadcrumb.Item active>Data</Breadcrumb.Item>
-                    <p>Copyright 2020 ume</p>
-                </Breadcrumb>
+                <Footer />
             </footer>
         </div>
     );
