@@ -1,32 +1,36 @@
 {
   "files": {
-    "main.css": "/ume/static/css/main.516c3ed3.chunk.css",
-    "main.js": "/ume/static/js/main.afe60856.chunk.js",
-    "main.js.map": "/ume/static/js/main.afe60856.chunk.js.map",
+    "main.css": "/ume/static/css/main.a7b79ef3.chunk.css",
+    "main.js": "/ume/static/js/main.463d045a.chunk.js",
+    "main.js.map": "/ume/static/js/main.463d045a.chunk.js.map",
     "runtime-main.js": "/ume/static/js/runtime-main.aafb589b.js",
     "runtime-main.js.map": "/ume/static/js/runtime-main.aafb589b.js.map",
     "static/css/2.af3c1da9.chunk.css": "/ume/static/css/2.af3c1da9.chunk.css",
-    "static/js/2.e82382c1.chunk.js": "/ume/static/js/2.e82382c1.chunk.js",
-    "static/js/2.e82382c1.chunk.js.map": "/ume/static/js/2.e82382c1.chunk.js.map",
+    "static/js/2.9f644ba9.chunk.js": "/ume/static/js/2.9f644ba9.chunk.js",
+    "static/js/2.9f644ba9.chunk.js.map": "/ume/static/js/2.9f644ba9.chunk.js.map",
     "index.html": "/ume/index.html",
-    "precache-manifest.2ab26e6ad63f282a0178392ae6cc4a5b.js": "/ume/precache-manifest.2ab26e6ad63f282a0178392ae6cc4a5b.js",
+    "precache-manifest.d188730681d50f1fc287f6501cc0357e.js": "/ume/precache-manifest.d188730681d50f1fc287f6501cc0357e.js",
     "service-worker.js": "/ume/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/ume/static/css/2.af3c1da9.chunk.css.map",
-    "static/css/main.516c3ed3.chunk.css.map": "/ume/static/css/main.516c3ed3.chunk.css.map",
-    "static/js/2.e82382c1.chunk.js.LICENSE.txt": "/ume/static/js/2.e82382c1.chunk.js.LICENSE.txt",
+    "static/css/main.a7b79ef3.chunk.css.map": "/ume/static/css/main.a7b79ef3.chunk.css.map",
+    "static/js/2.9f644ba9.chunk.js.LICENSE.txt": "/ume/static/js/2.9f644ba9.chunk.js.LICENSE.txt",
+    "static/media/FintechEurope.png": "/ume/static/media/FintechEurope.19dadff4.png",
     "static/media/InFinance_2017.png": "/ume/static/media/InFinance_2017.511a0372.png",
     "static/media/InFinance_2018.png": "/ume/static/media/InFinance_2018.9f1343ba.png",
     "static/media/Laurent.jpg": "/ume/static/media/Laurent.c3b1e75d.jpg",
     "static/media/Oleksiy.jpg": "/ume/static/media/Oleksiy.3480ab5a.jpg",
     "static/media/RegTech100.png": "/ume/static/media/RegTech100.846caf74.png",
     "static/media/Rolf.jpg": "/ume/static/media/Rolf.706e0b87.jpg",
-    "static/media/logo.svg": "/ume/static/media/logo.427d05ae.svg"
+    "static/media/img1.jpg": "/ume/static/media/img1.a43416e1.jpg",
+    "static/media/img2.jpg": "/ume/static/media/img2.a90edacc.jpg",
+    "static/media/img3.jpg": "/ume/static/media/img3.a2b40a53.jpg",
+    "static/media/logo.svg": "/ume/static/media/logo.3cc138b5.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.aafb589b.js",
     "static/css/2.af3c1da9.chunk.css",
-    "static/js/2.e82382c1.chunk.js",
-    "static/css/main.516c3ed3.chunk.css",
-    "static/js/main.afe60856.chunk.js"
+    "static/js/2.9f644ba9.chunk.js",
+    "static/css/main.a7b79ef3.chunk.css",
+    "static/js/main.463d045a.chunk.js"
   ]
 }

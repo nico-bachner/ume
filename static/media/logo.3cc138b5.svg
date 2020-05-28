@@ -1,0 +1,21 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+    # background
+    <rect x="1" y="1" width="98" height="98" fill="white" stroke="red" stroke-width="2" />
+    <rect x="50" y="1" width="49" height="49" fill="#00B0F0" stroke="red" stroke-width="1" />
+    <rect x="1" y="1" width="98" height="98" fill="transparent" stroke="red" stroke-width="2" />
+    <line x1="50" y1="0" x2="50" y2="100" stroke="red" stroke-width="1" />
+    <line x1="0" y1="50" x2="100" y2="50" stroke="red" stroke-width="1" />
+    # u
+    <line x1="18" y1="18" x2="18" y2="27" stroke="#205080" stroke-width="2" />
+    <line x1="32" y1="18" x2="32" y2="27" stroke="#205080" stroke-width="2" />
+    <path d="M 18,26.9 C 18,38 32,38 32,26.9" fill="none" stroke="#205080" stroke-width="2" />
+    # m
+    <line x1="12" y1="68" x2="12" y2="85" stroke="#205080" stroke-width="2" />
+    <line x1="25" y1="76" x2="25" y2="85" stroke="#205080" stroke-width="2" />
+    <line x1="38" y1="76" x2="38" y2="85" stroke="#205080" stroke-width="2" />
+    <path d="M 12,76.01 C 12,66 25,66 25,76.01 C 25,66 38,66 38,76.01" fill="none" stroke="#205080" stroke-width="2" />
+    # e
+    <line x1="67" y1="75" x2="83" y2="75" stroke="#205080" stroke-width="2" />
+    <circle cx="75" cy="76" r="8" stroke="#205080" stroke-width="2" fill="none" />
+    <rect x="75" y="76" width="10" height="5" fill="white" stroke="none" />
+</svg>
